@@ -5,7 +5,11 @@ Role Of Machine Learning In Detection Of Breast Cancer
 Now while its difficult to figure out for physicians by seeing only images of x-ray that weather the tumor is toxic or not training a machine learning model according to the identification of tumour can be of great help.
 
 Project by:
+
 Sankalpa Girish
+
 Vibha S
+
 Aniruddh P Koundinya
+
 Venkatesh MG
